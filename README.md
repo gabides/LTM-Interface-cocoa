@@ -14,18 +14,18 @@ Usage:
 datasets should be imported with the following architecture:
 
 |dataset
-    |sample1
-        |microExpressions
-            |microExpressionFile_sample1.ltm   // these .ltm files are text files
-            |microExpressionFile_sample2.ltm
-        |videos
-            |video_sample1.avi
-    |sample2 
-        |microExpressions
-        |videos
-    |sample3
-        |microExpressions
-        |videos
+ |sample1
+  |microExpressions
+   |microExpressionFile_sample1.ltm   // these .ltm files are text files
+   |microExpressionFile_sample2.ltm
+  |videos
+   |video_sample1.avi
+ |sample2 
+   |microExpressions
+   |videos
+  |sample3
+   |microExpressions
+   |videos
  
 
 This app was developped using OpenCV version 3.4.1
